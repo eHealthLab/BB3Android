@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="ucdenver.edu.bb3android.SignupActivity"
+    android:id="@+id/signup">
+
+    <ScrollView android:id="@+id/signup_form" android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:layout_weight="0.01"
+        android:fillViewport="false">
+
+        <LinearLayout android:id="@+id/email_signup_form" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:orientation="vertical">
+
+
+            <EditText android:id="@+id/firstName" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="@string/prompt_firstName"
+
+                android:imeActionLabel="@string/action_sign_in_short"
+                android:imeOptions="actionUnspecified" android:inputType="text"
+                android:maxLines="1" android:singleLine="true" />
+
+            <EditText android:id="@+id/lastName" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="@string/prompt_lastName"
+
+                android:imeActionLabel="@string/action_sign_in_short"
+                android:imeOptions="actionUnspecified" android:inputType="text"
+                android:maxLines="1" android:singleLine="true" />
+
+            <EditText android:id="@+id/email" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="@string/prompt_userEmail"
+                android:inputType="textEmailAddress" android:maxLines="1"
+                android:singleLine="true" />
+
+            <EditText android:id="@+id/password" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="@string/prompt_userPassword"
+
+                android:imeActionLabel="@string/action_sign_in_short"
+                android:imeOptions="actionUnspecified" android:inputType="textPassword"
+                android:maxLines="1" android:singleLine="true" />
+
+            <EditText android:id="@+id/childName" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="@string/prompt_childName"
+                android:imeActionLabel="@string/action_sign_in_short"
+                android:imeOptions="actionUnspecified" android:inputType="text"
+                android:maxLines="1" android:singleLine="true" />
+
+            <EditText android:id="@+id/childDOB" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="@string/prompt_childDOB"
+                android:imeActionLabel="@string/action_sign_in_short"
+                android:imeOptions="actionUnspecified" android:inputType="text"
+                android:maxLines="1" android:singleLine="true" />
+
+            <EditText android:id="@+id/childGender" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="@string/prompt_childGender"
+                android:imeActionLabel="@string/action_sign_in_short"
+                android:imeOptions="actionUnspecified" android:inputType="text"
+                android:maxLines="1" android:singleLine="true" />
+
+            <EditText android:id="@+id/phone" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="@string/prompt_phoneNumber"
+                android:imeActionLabel="@string/action_sign_in_short"
+                android:imeOptions="actionUnspecified" android:inputType="text"
+                android:maxLines="1" android:singleLine="true" />
+
+            <EditText android:id="@+id/zipcode" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="@string/prompt_zipcode"
+                android:imeActionLabel="@string/action_sign_in_short"
+                android:imeOptions="actionUnspecified" android:inputType="text"
+                android:maxLines="1" android:singleLine="true" />
+
+            <Button android:id="@+id/email_signup_button" style="?android:textAppearanceSmall"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="16dp" android:text="Sign up"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</RelativeLayout>

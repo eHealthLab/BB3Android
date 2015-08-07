@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="signup">signup</string>
+    <!-- Strings related to login -->
+
+    <string name="prompt_firstName">First Name</string>
+    <string name="prompt_lastName">Last Name</string>
+    <string name="prompt_userEmail">Email</string>
+    <string name="prompt_userPassword">Password</string>
+    <string name="prompt_childName">Child Name</string>
+    <string name="prompt_childDOB">Child DOB</string>
+    <string name="prompt_childGender">Child Gender</string>
+    <string name="prompt_phoneNumber">Phone Number</string>
+    <string name="prompt_zipcode">Zipcode</string>
+    <string name="action_sign_up">Sign up</string>
+
+    <string name="error_all_info_required">All information is required</string>
+    <string name="error_invalid_email_message">Invalid Email!</string>
+
+</resources>

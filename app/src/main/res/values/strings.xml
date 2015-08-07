@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BB3Android</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="signInTitle">Sign up</string>
+    <string name="title_activity_signup">Sign up</string>
+    <string name="title_dashboard_list">Dashboard</string>
+    <string name="title_dashboard_detail">Dashboard Detail</string>
+
+</resources>
