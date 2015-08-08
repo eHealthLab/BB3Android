@@ -46,6 +46,14 @@
             android:name=".DashboardActivity"
             android:label="@string/title_activity_dashboard" >
         </activity>
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_activity_settings" >
+        </activity>
+        <activity
+            android:name=".LogMinutesActivity"
+            android:label="@string/title_activity_log_minutes" >
+        </activity>
     </application>
 
 </manifest>

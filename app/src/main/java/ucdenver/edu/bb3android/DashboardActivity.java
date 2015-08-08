@@ -181,7 +181,7 @@ public class DashboardActivity extends AppCompatActivity implements ActionBar.Ta
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
-            View listView = inflater.inflate(R.layout.fragment_dashboard, container, false);
+            View listView = inflater.inflate(R.layout.fragment_tutorial, container, false);
 
             // Defined Array values to show in ListView
             String[] values = new String[] { "Android List View",

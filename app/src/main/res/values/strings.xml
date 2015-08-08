@@ -13,5 +13,7 @@
     <string name="title_dashboard_list">Dashboard</string>
     <string name="title_dashboard_detail">Dashboard Detail</string>
     <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_log_minutes">LogMinutesActivity</string>
 
 </resources>
