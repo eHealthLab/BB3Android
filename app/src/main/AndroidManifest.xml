@@ -42,7 +42,10 @@
             android:label="@string/title_activity_login"
             android:windowSoftInputMode="adjustResize|stateVisible" >
         </activity>
-
+        <activity
+            android:name=".DashboardActivity"
+            android:label="@string/title_activity_dashboard" >
+        </activity>
     </application>
 
 </manifest>

@@ -1,0 +1,88 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="ucdenver.edu.bb3android.DashboardActivity$PlaceholderFragment"
+    android:id="@+id/aboutUsTable">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/radialback">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="hello"
+            android:textColor="#000000"/>
+    </LinearLayout>
+
+    <TextView android:id="@+id/section_label" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Goals"
+        android:id="@+id/button"
+        android:width="150dp"
+        android:height="100dp"
+        android:drawableTop="@android:drawable/ic_menu_camera"
+        android:layout_below="@+id/section_label"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Facebook"
+        android:id="@+id/button3"
+        android:width="150dp"
+        android:height="100dp"
+        android:layout_alignTop="@+id/button"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Log Minutes"
+        android:id="@+id/button4"
+        android:width="150dp"
+        android:height="100dp"
+        android:layout_below="@+id/button"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="53dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Network"
+        android:id="@+id/button5"
+        android:width="150dp"
+        android:height="100dp"
+        android:layout_alignTop="@+id/button4"
+        android:layout_alignEnd="@+id/button3" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Badges"
+        android:id="@+id/button6"
+        android:width="150dp"
+        android:height="100dp"
+        android:layout_marginTop="47dp"
+        android:layout_below="@+id/button4"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Messages"
+        android:id="@+id/button7"
+        android:width="150dp"
+        android:height="100dp"
+        android:layout_alignTop="@+id/button6"
+        android:layout_alignStart="@+id/button5" />
+
+
+</RelativeLayout>

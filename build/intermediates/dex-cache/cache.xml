@@ -2,18 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/aartimunjal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-1b32007e605f4189e95047109ccd8f88a3d2d088.jar" />
-    </item>
-    <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-088cbc3e6355d2faa655cf5b7f6057a565077471.jar" />
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-92f3bb24cb9285df32a049717af0a5377251d9c7.jar" />
     </item>
     <item
         jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
@@ -23,95 +16,11 @@
         <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-94cfefc8d963c2065c43c621c6f034a8994be77b.jar" />
     </item>
     <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-92f3bb24cb9285df32a049717af0a5377251d9c7.jar" />
-    </item>
-    <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-0b85ba4eeea5a3eee227ada6a9cea3e852fef236.jar" />
-    </item>
-    <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-d81d8a082602feafae417f7ee90fa526974d5f89.jar" />
-    </item>
-    <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-0cfe7f83beb8629f8ce6ac9a0f8ba69bfa566748.jar" />
-    </item>
-    <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-cf10dc68c47f519caa8a141a66fbb9f42c0db637.jar" />
-    </item>
-    <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-5ea22707fbb67539967ff7b595e9d2769cff181c.jar" />
-    </item>
-    <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-3c0590b8a359be3f6be02d740d8822b1808a2f2d.jar" />
-    </item>
-    <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-e8172e68555e5c1503bc7659892a0578f53f431f.jar" />
-    </item>
-    <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-f184a05a169084830f73dbfed97b13405463a695.jar" />
-    </item>
-    <item
         jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="a78183f30e769a98ab4820794f597763088d3065">
         <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-71c5973e6acbf4f8f419c72c0e75af0c0d1d27d6.jar" />
-    </item>
-    <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-3c6ef654a52da4caf652088cde5ca7c4df4637c8.jar" />
-    </item>
-    <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-328fdb5506840f7171084043bb328cdbf46dd7fb.jar" />
-    </item>
-    <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-df34d2287267e156a382a9d616905387da1f973c.jar" />
     </item>
     <item
         jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
@@ -121,32 +30,25 @@
         <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-bffffcf0a561d6f5eaba31f68e835aef42c81b36.jar" />
     </item>
     <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-81cd6f6eeb82b98e3ac69e191465e3972b1d8f62.jar" />
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-7ab5a8ee55f6ad9a4d0c4b2bc63768bc058f7ab3.jar" />
     </item>
     <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-a2aeda5e50a2dd20f08ba4301051a1caa04d9fd8.jar" />
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-088cbc3e6355d2faa655cf5b7f6057a565077471.jar" />
     </item>
     <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-673d5dc9a0da9be407f56f86e6f0ae64cb0fc8de.jar" />
-    </item>
-    <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-85ede421a9e886621ebe41c9078691b52095c484.jar" />
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-3c0590b8a359be3f6be02d740d8822b1808a2f2d.jar" />
     </item>
     <item
         jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
@@ -156,18 +58,18 @@
         <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-2f32157735f0bff7615b2ef0710b6247daa60b75.jar" />
     </item>
     <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-7ab5a8ee55f6ad9a4d0c4b2bc63768bc058f7ab3.jar" />
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-f184a05a169084830f73dbfed97b13405463a695.jar" />
     </item>
     <item
-        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-0355d2c348c7feb6332e01af2e2a397e3723a207.jar" />
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-673d5dc9a0da9be407f56f86e6f0ae64cb0fc8de.jar" />
     </item>
     <item
         jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
@@ -177,11 +79,109 @@
         <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-b4da2d6f9ee40cbe16eaa996df3727c0e9f2d370.jar" />
     </item>
     <item
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-e8172e68555e5c1503bc7659892a0578f53f431f.jar" />
+    </item>
+    <item
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-5ea22707fbb67539967ff7b595e9d2769cff181c.jar" />
+    </item>
+    <item
+        jar="/Users/aartimunjal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-1b32007e605f4189e95047109ccd8f88a3d2d088.jar" />
+    </item>
+    <item
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-df34d2287267e156a382a9d616905387da1f973c.jar" />
+    </item>
+    <item
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-3c6ef654a52da4caf652088cde5ca7c4df4637c8.jar" />
+    </item>
+    <item
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-cf10dc68c47f519caa8a141a66fbb9f42c0db637.jar" />
+    </item>
+    <item
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-0355d2c348c7feb6332e01af2e2a397e3723a207.jar" />
+    </item>
+    <item
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-328fdb5506840f7171084043bb328cdbf46dd7fb.jar" />
+    </item>
+    <item
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-81cd6f6eeb82b98e3ac69e191465e3972b1d8f62.jar" />
+    </item>
+    <item
         jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
         <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-7d1a197277d222d2e9e2bf5a91c6fadf9305fcdb.jar" />
+    </item>
+    <item
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-a2aeda5e50a2dd20f08ba4301051a1caa04d9fd8.jar" />
+    </item>
+    <item
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-d81d8a082602feafae417f7ee90fa526974d5f89.jar" />
+    </item>
+    <item
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-85ede421a9e886621ebe41c9078691b52095c484.jar" />
+    </item>
+    <item
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-0cfe7f83beb8629f8ce6ac9a0f8ba69bfa566748.jar" />
+    </item>
+    <item
+        jar="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/aartimunjal/Developer/GitHubRepos/BB3Android/app/build/intermediates/pre-dexed/debug/classes-0b85ba4eeea5a3eee227ada6a9cea3e852fef236.jar" />
     </item>
 
 </items>
