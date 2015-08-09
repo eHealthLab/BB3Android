@@ -54,6 +54,18 @@
             android:name=".LogMinutesActivity"
             android:label="@string/title_activity_log_minutes" >
         </activity>
+        <activity
+            android:name=".GoalsActivity"
+            android:label="@string/title_activity_goals" >
+        </activity>
+        <activity
+            android:name=".MyAccountActivity"
+            android:label="@string/title_activity_my_account" >
+        </activity>
+        <activity
+            android:name=".LibraryActivity"
+            android:label="@string/title_activity_library" >
+        </activity>
     </application>
 
 </manifest>
